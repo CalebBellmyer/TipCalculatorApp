@@ -35,7 +35,7 @@ struct ContentView: View {
     var amountPerPerson: Double {
         return numberOfPeople > 0 ? totalAmount / numberOfPeople: 0
     }
-    
+   // abstracted all my slider info 
     struct SliderView: View {
         let title: String
         @Binding var value: Double
