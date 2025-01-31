@@ -4,8 +4,10 @@ A simple and intuitive app that helps you **dynamically calculate tips** for a s
 
 ## 📱 Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-31 at 13 44 38](https://github.com/user-attachments/assets/4c218c87-1e65-4558-b5aa-30c4f1ae376c)
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-31 at 13 44 53](https://github.com/user-attachments/assets/513aeb14-337e-4ac6-ad2e-5ca808e108bb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c218c87-1e65-4558-b5aa-30c4f1ae376c" width="250">
+  <img src="https://github.com/user-attachments/assets/513aeb14-337e-4ac6-ad2e-5ca808e108bb" width="250">
+</p>
 
 ## ✨ Features
 
