@@ -5,8 +5,8 @@ A simple and intuitive app that helps you **dynamically calculate tips** for a s
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c218c87-1e65-4558-b5aa-30c4f1ae376c" width="250">
-  <img src="https://github.com/user-attachments/assets/513aeb14-337e-4ac6-ad2e-5ca808e108bb" width="250">
+  <img src="https://github.com/user-attachments/assets/4c218c87-1e65-4558-b5aa-30c4f1ae376c" width="250" style="border-radius: 12px; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/513aeb14-337e-4ac6-ad2e-5ca808e108bb" width="250" style="border-radius: 12px;">
 </p>
 
 ## ✨ Features
@@ -19,4 +19,3 @@ A simple and intuitive app that helps you **dynamically calculate tips** for a s
 
 - **Swift** – Built natively for iOS  
 - **SwiftUI** – Modern and declarative UI framework  
-
